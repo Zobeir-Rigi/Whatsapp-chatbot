@@ -1,4 +1,11 @@
 const fs = require('fs');
+const twilio = require('twilio');
+
+// Twilio credentials
+const accountSid = 'ACf720f5e52dd5484daea68e3e47353f88';
+const authToken = '[AuthToken]';
+const client = require('twilio')(accountSid, authToken);
+
 
 function readUserInfo(filePath) {
     try {
