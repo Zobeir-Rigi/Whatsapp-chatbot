@@ -1,7 +1,5 @@
 [
-    {
-    "name":"Zobeir" ,
-    "celphone" : "07399058028" ,
-    "country" : "England"
-}
+    { "name": "Zobeir",
+     "celphone": "+447399058028",
+      "country": "England" }
 ]
