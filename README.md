@@ -22,7 +22,7 @@ npm install
      ]
 
 4. Run the Script:
-node whatsapp-chatbot.js
+node whatsapp-chatbot.js , the file is (readData.js) in this project.
 
 Dependencies:
 .Twilio: Used for integrating WhatsApp messaging functionality into the chatbot.
