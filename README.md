@@ -7,9 +7,6 @@ This project automates the process of sending initial messages to leads via What
 <img width="750" alt="Initial message" src="https://github.com/Zobeir-Rigi/Whatsapp-chatbot/assets/108760076/8124dcb8-6e33-416a-9c07-be88d0e3fa59">
 <img width="400" alt="Notification on my phone" src ="https://github.com/Zobeir-Rigi/Whatsapp-chatbot/assets/108760076/58dc860e-50e2-495e-a720-a8d2780c8b50">
 
-
-
-
 ## Instructions for Running the Code:
 
 1. **Clone the Repository:**
